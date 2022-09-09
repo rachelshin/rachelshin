@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Rachel</h1>
 <h3 align="center">Full-stack engineer in the hospitality space</h3>
 
-- 👨‍💻 All of my projects are available at [rachelshin.netlify.io](rachelshin.netlify.io)
+- 👨‍💻 Portfolio at [rachelshin.netlify.io](rachelshin.netlify.io)
 
 - 📫 How to reach me **shin.rachel@gmail.com**
 
